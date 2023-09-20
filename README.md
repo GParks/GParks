@@ -1,4 +1,12 @@
-### Hi there 👋
+### *Salvete!* 👋
+
+## Experience
+
+**Programming Languages**
+
+* <img width="200" src="https://www.python.org/static/img/python-logo.png" alt="python™"/>
+* <img width="50" src="https://seeklogo.com/images/C/c-logo-1B1817C041-seeklogo.com.png" alt="C++"/>
+
 
 <!--
 **GParks/GParks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +22,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
