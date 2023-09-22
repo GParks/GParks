@@ -23,6 +23,17 @@ My resume has much of my *professional* experience; I hope, here, to list person
   -->  <img width="130px" src="Images/golang_logo_icon_171073.png"/>
       
 
+*What I'm working on*
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg"/> &nbsp; <img src="https://foundation.rust-lang.org/img/rust-logo-blk.svg"/>
+
+**"Technologies"**
+
+<img src="https://en.wikipedia.org/wiki/HTML5#/media/File:HTML5_logo_and_wordmark.svg"/> <img src="https://seeklogo.com/images/C/css3-logo-F1923C8D0E-seeklogo.com.png"/>
+
+<img src="Images/bootstrap-filetype-json.svg/>
+
+
+
 <!--
 **GParks/GParks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
