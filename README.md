@@ -16,8 +16,11 @@ My resume has much of my *professional* experience; I hope, here, to list person
       alt="C++"/> &nbsp; &nbsp;  <img width="60" 
       src="https://clojure.org/images/clojure-logo-120b.png" alt="Clojure"/>  &nbsp; <img width="50" 
       src="Images/java-seeklogo.com.svg" alt="Java"/>
-	  
-<img style="background:#007d9c;" src="Images/go-logo-white.svg"/> &ndash; OR &ndash; <img src="Images/transp-go-lang-logo-mobile-dev-prog-lang.png"/>
+<!-- 
+   - this didn't work, either way ... 
+   -   <div style="background:#007d9c;"> <img  src="https://go.dev/images/go-logo-white.svg"/> </div> 
+   - &ndash; OR &ndash;
+  -->  <img width="75px" style="background:orange;" src="Images/transp-go-lang-logo-mobile-dev-prog-lang.png"/>
       
 
 <!--
