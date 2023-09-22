@@ -16,6 +16,8 @@ My resume has much of my *professional* experience; I hope, here, to list person
       alt="C++"/> &nbsp; &nbsp;  <img width="60" 
       src="https://clojure.org/images/clojure-logo-120b.png" alt="Clojure"/>  &nbsp; <img width="50" 
       src="Images/java-seeklogo.com.svg" alt="Java"/>
+	  
+<img style="background:#007d9c;" src="https://go.dev/images/go-logo-white.svg"/>
       
 
 <!--
