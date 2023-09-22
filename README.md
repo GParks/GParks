@@ -20,7 +20,7 @@ My resume has much of my *professional* experience; I hope, here, to list person
    - this didn't work, either way ... 
    -   <div style="background:#007d9c;"> <img  src="https://go.dev/images/go-logo-white.svg"/> </div> 
    - &ndash; OR &ndash;
-  -->  <img width="75px" style="background:orange;" src="Images/transp-go-lang-logo-mobile-dev-prog-lang.png"/>
+  -->  <img width="75px" style="background:orange;" src="Images/golang_logo_icon_171073.png"/>
       
 
 <!--
