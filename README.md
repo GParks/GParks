@@ -24,7 +24,8 @@ My resume has much of my *professional* experience; I hope, here, to list person
       
 
 *What I'm working on*
-<img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg"/> &nbsp; <img src="https://foundation.rust-lang.org/img/rust-logo-blk.svg"/>
+
+<img width="200px" src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg"/> &nbsp; <img src="https://foundation.rust-lang.org/img/rust-logo-blk.svg"/>
 
 **"Technologies"**
 
