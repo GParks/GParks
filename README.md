@@ -18,9 +18,9 @@ My resume has much of my *professional* experience; I hope, here, to list person
       src="Images/java-seeklogo.com.svg" alt="Java"/>
 <!-- 
    - this didn't work, either way ... 
-   -   <div style="background:#007d9c;"> <img  src="https://go.dev/images/go-logo-white.svg"/> </div> 
+   -   <div style="background:#007d9c;"> <img src="https://go.dev/images/go-logo-white.svg"/> </div> 
    - &ndash; OR &ndash;
-  -->  <img width="90px"  src="Images/golang_logo_icon_171073.png"/>
+  -->  <img width="130px" src="Images/golang_logo_icon_171073.png"/>
       
 
 <!--
