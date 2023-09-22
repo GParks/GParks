@@ -1,7 +1,14 @@
 ### *Salvete!* 👋
 
+I am Gregory Allen Parks, Esq., professional software engineer, computer scientist, 
+more curious than a cat
+
+<img src="https://www.mensa.org/sites/default/files/mensa_logo.png"/>
+
+
 This page, like so many things, is a work in progress &hellip;
 
+<!-- some of the ideas here, and "template" shamelessly borrowed from https://github.com/BEPb/BEPb#readme -->
 
 ## Experience
 
@@ -32,7 +39,7 @@ My resume has much of my *professional* experience; I hope, here, to list person
 <img height="100" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/800px-HTML5_logo_and_wordmark.svg.png"/> <img height="100px" src="https://seeklogo.com/images/C/css3-logo-F1923C8D0E-seeklogo.com.png"/> <br> 
 <img width="40" src="Images/bootstrap-filetype-json.svg"/>
 
-
+<img width="250" src="https://www.pega.com/themes/custom/pegawww_theme/images/pega-logo.svg"/>
 
 <!--
 **GParks/GParks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
