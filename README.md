@@ -29,7 +29,7 @@ My resume has much of my *professional* experience; I hope, here, to list person
 
 **"Technologies"**
 
-<img height="100" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/800px-HTML5_logo_and_wordmark.svg.png"/> <img height="100px" src="https://seeklogo.com/images/C/css3-logo-F1923C8D0E-seeklogo.com.png"/> <br/> <img src="Images/bootstrap-filetype-json.svg"/>
+<img height="100" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/800px-HTML5_logo_and_wordmark.svg.png"/> <img height="100px" src="https://seeklogo.com/images/C/css3-logo-F1923C8D0E-seeklogo.com.png"/> <br/> <img width="500%" src="Images/bootstrap-filetype-json.svg"/>
 
 
 
