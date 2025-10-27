@@ -3,7 +3,7 @@
 I am Gregory Allen Parks, Esq., professional software engineer, computer scientist,
 more curious than a cat
 
-<img src="https://www.mensa.org/sites/default/files/mensa_logo.png"/>
+<img src="https://www.mensa.org/storage/2024/01/mensa_logoW.webp"/>
 
 
 This page, like so many things, is a work in progress &hellip;
