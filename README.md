@@ -12,7 +12,10 @@ This page, like so many things, is a work in progress &hellip;
 
 ## Experience
 
-My resume has much of my *professional* experience; I hope, here, to list personal 'likes'
+[My resume](https://github.com/GParks/GParks/blob/main/resume_2025k.pdf) has much of my *professional* experience; I hope, here, to list personal 'likes'
+
+If you only want my CV, such as it is, there is the link; if you're curious, you could e-mail me ...
+
 
 **Programming Languages**
 
